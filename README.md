@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Pankaj Chauhan
-- 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning Full Stack Web Development from Apna College
 - 📫 How to reach me :
 - Contact info:8683819174
 - Email:pc5061478@gmail.com
